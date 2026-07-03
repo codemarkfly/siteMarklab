@@ -1,5 +1,5 @@
 /**
- * MarkLab - Estúdio Criativo
+ * MarkTeam - Equipe Criativa
  * JavaScript principal
  * Controle de menu mobile, scroll, animações e interações
  */
@@ -125,6 +125,5 @@ document.addEventListener('DOMContentLoaded', function () {
   /* ==============================
      EFEITO DE DIGITAÇÃO NO BADGE (opcional)
   ============================== */
-  console.log('MarkLab — Design, estratégia e presença digital.');
-  console.log('Criado por Marcelo Klassmann.');
+    console.log('MarkTeam — Consultoria em Design & Marketing Promocional.');
 });

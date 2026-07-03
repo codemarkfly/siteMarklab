@@ -1,6 +1,6 @@
-# MarkLab — Site Institucional
+# MarkTeam — Site Institucional
 
-Site institucional da **MarkLab**, estúdio criativo de comunicação, design, presença digital e materiais comerciais, criado por Marcelo Klassmann.
+Site institucional da **MarkTeam**, equipe criativa especializada em consultoria em design e marketing promocional.
 
 ## Tecnologias
 
@@ -15,7 +15,7 @@ Site institucional da **MarkLab**, estúdio criativo de comunicação, design, p
 ## Estrutura de pastas
 
 ```
-siteMarklab/
+siteMarkteam/
 ├── index.html          # Página principal (todas as seções)
 ├── css/
 │   └── styles.css      # Estilos completos com variáveis CSS
@@ -35,7 +35,7 @@ Abra o arquivo `index.html` em qualquer navegador moderno.
 Com Python:
 
 ```bash
-cd siteMarklab
+cd siteMarkteam
 python3 -m http.server 8000
 ```
 
@@ -44,7 +44,7 @@ Acesse `http://localhost:8000`
 Com Node.js:
 
 ```bash
-npx serve siteMarklab
+npx serve siteMarkteam
 ```
 
 ## Como customizar
@@ -64,7 +64,7 @@ O site usa placeholders com gradientes. Para adicionar imagens reais:
 
 1. Conecte o repositório na [Vercel](https://vercel.com)
 2. Framework: **Other**
-3. Diretório raiz: `siteMarklab` (ou onde estiver o `index.html`)
+3. Diretório raiz: `siteMarkteam` (ou onde estiver o `index.html`)
 4. Output directory: deixe vazio
 
 Pronto. O site está no ar.
@@ -78,4 +78,4 @@ Pronto. O site está no ar.
 
 ## Licença
 
-Todos os direitos reservados — MarkLab / Marcelo Klassmann.
+Todos os direitos reservados — MarkTeam.
